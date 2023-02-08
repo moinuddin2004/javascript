@@ -1,0 +1,11 @@
+var age=18;
+alert("i am "+ age+ " year old");
+var time=18;
+alert("you have visited this website "+ time+ " times");
+// var year=2004;
+// document.write("my birth year is "+year);
+var namec="moin";
+var title="t-shirt";
+var no=5;
+var web="abc@gmail.com";
+document.write(namec+" is ordered "+no+" "+title+"from "+web);
